@@ -1,0 +1,9 @@
+aiogram==3.10.0
+playwright==1.45.0
+pandas==2.2.2
+
+Bash
+pip install -r requirements.txt
+
+Bash
+playwright install chromium
